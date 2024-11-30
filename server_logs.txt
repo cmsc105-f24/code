@@ -1,0 +1,4 @@
+2024-11-21 10:15:30 INFO User123 accessed /home
+2024-11-21 10:20:45 ERROR User456 failed to access /dashboard
+2024-11-21 10:25:50 WARNING User789 exceeded rate limit
+2024-11-21 10:30:15 INFO User123 logged out
